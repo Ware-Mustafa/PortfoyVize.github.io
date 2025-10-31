@@ -17,5 +17,28 @@
 
 ```html
 🟠 HTML5 → Sayfa yapısını ve içeriği oluşturmak için  
-🔵 CSS3 → Tasarımı, renk düzenini ve duyarlı (responsive) yapıyı sağlamak için  
+🔵 CSS3 → Tasarımı, renk düzenini sağlamak için  
 🟣 Font Awesome → Siteye modern ve anlamlı ikonlar eklemek için  
+````
+🏠 <h2>Ana Sayfa</h2>
+Ziyaretçiyi karşılayan ilk bölüm.
+Kısa bir tanıtım metniyle kendimden ve sitenin amacından bahsediliyor.
+Ana sayfa sade, şık ve dikkat çekici bir başlıkla ziyaretçiyi karşılıyor.
+
+👨‍💻 <h2>Hakkımda</h2>
+Bu bölümde kim olduğum, hangi teknolojilerle ilgilendiğim ve hedeflerim hakkında kısa bilgiler yer alıyor.
+Ayrıca bu bölüm, ziyaretçilere benim yazılım yolculuğum hakkında fikir veriyor.
+
+🧰 <h2>Hizmetler</h2>
+Web tasarımı, yazılım geliştirme ve dijital çözümler alanında sunduğum hizmetlerin kısa tanıtımları bulunuyor.
+Her hizmet simgelerle (ikonlarla) desteklenmiş, kullanıcı dostu kart yapısında gösteriliyor.
+
+💼 <h2>Portföy</h2>
+Bu bölümde gerçekleştirdiğim veya üzerinde çalıştığım projeler yer alıyor.
+Her proje hakkında kısa açıklama ve proje bağlantısı bulunuyor.
+Portföy kısmı, yaptığım işlerin görsel olarak sergilendiği bir vitrin gibi tasarlandı.
+
+✉️ <h2>İletişim</h2>
+Ziyaretçilerin benimle iletişime geçebileceği bir form yer alıyor.
+Ayrıca sosyal medya ikonlarıyla kolay erişim imkânı sağlanıyor.
+Bu bölüm, sade bir yapı içinde kullanıcı dostu form alanları içeriyor.
