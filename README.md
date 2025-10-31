@@ -34,11 +34,9 @@ Web tasarımı, yazılım geliştirme ve dijital çözümler alanında sunduğum
 Her hizmet simgelerle (ikonlarla) desteklenmiş, kullanıcı dostu kart yapısında gösteriliyor.
 
 💼 <h2>Portföy</h2>
-Bu bölümde gerçekleştirdiğim veya üzerinde çalıştığım projeler yer alıyor.
-Her proje hakkında kısa açıklama ve proje bağlantısı bulunuyor.
-Portföy kısmı, yaptığım işlerin görsel olarak sergilendiği bir vitrin gibi tasarlandı.
+Bu bölümde her proje hakkında kısa açıklama bulunuyor.
+Portföy kısmı, görsel olarak sergilendiği bir vitrin gibi tasarladım.
 
 ✉️ <h2>İletişim</h2>
-Ziyaretçilerin benimle iletişime geçebileceği bir form yer alıyor.
-Ayrıca sosyal medya ikonlarıyla kolay erişim imkânı sağlanıyor.
-Bu bölüm, sade bir yapı içinde kullanıcı dostu form alanları içeriyor.
+Ziyaretçilerin benimle iletişime sosyal medya ikonlarıyla kolay erişim imkânı sağlanıyor.
+
