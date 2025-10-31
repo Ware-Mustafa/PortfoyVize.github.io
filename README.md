@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Portofy | Kişisel Portföy Sitesi 🌐</h1>
+<h1 align="center">🌐 Kişisel Portföy Sitesi 🌐</h1>
 
 <p align="center">
   <b>Bu proje, vize sınavı kapsamında hazırlanmış kişisel bir portföy sitesidir.</b><br>
